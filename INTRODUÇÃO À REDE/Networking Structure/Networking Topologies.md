@@ -30,8 +30,8 @@ As topologias de rede podem ser físicas ou lógicas, não necessariamente corre
 ## Principais Tipos de Topologia
 
 1. **Ponto a Ponto**
-   - Conexão direta e dedicada entre dois hosts.
-   ![Descrição da imagem](imagens/img1.png)
+   - Conexão direta e dedicada entre dois hosts.<br>
+   ![Descrição da imagem](/imagens/img1.png)
 
 
 2. **Barramento**
