@@ -31,33 +31,33 @@ As topologias de rede podem ser físicas ou lógicas, não necessariamente corre
 
 1. **Ponto a Ponto**
    - Conexão direta e dedicada entre dois hosts.<br>
-   ![Descrição da imagem](/imagens/img1.png)
+   ![Descrição da imagem](../imagens/img1.png)
 
 
 2. **Barramento**
    - Todos os hosts compartilham um meio de transmissão único.
-   ![Descrição da imagem](imagens/img2.png)
+   ![Descrição da imagem](../imagens/img2.png)
 
 3. **Estrela**
    - Cada host conectado a um componente central (hub, switch, ou roteador).
-   ![Descrição da imagem](imagens/img3.png)
+   ![Descrição da imagem](../imagens/img3.png)
 
 4. **Anel**
    - Cada host conectado a um anel com dois cabos para sinais de entrada e saída.
-   ![Descrição da imagem](imagens/img4.png)
+   ![Descrição da imagem](../imagens/img4.png)
 
 5. **Malha**
    - Todos os hosts estão conectados diretamente entre si para redundância e alta confiabilidade.
-   ![Descrição da imagem](imagens/img5.png)
+   ![Descrição da imagem](../imagens/img5.png)
 
 6. **Árvore**
    - Extensão da topologia de estrela para redes maiores, frequentemente hierárquica.
-   ![Descrição da imagem](imagens/img6.png)
+   ![Descrição da imagem](../imagens/img6.png)
 
 7. **Híbrida**
    - Combinação de duas ou mais topologias básicas.
-   ![Descrição da imagem](imagens/img7.png)
+   ![Descrição da imagem](../imagens/img7.png)
 
 8. **Guirlanda de Margaridas (Daisy Chain)**
    - Conexão em série de vários hosts, frequentemente usada em automação.
-   ![Descrição da imagem](imagens/img8.png)
+   ![Descrição da imagem](../imagens/img8.png)
